@@ -9,3 +9,9 @@ p{
 strong{
     color:blue
 }
+
+header{
+    height: 450px;
+    width: 100%;
+    background-color: red;
+}
